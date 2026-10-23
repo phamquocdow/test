@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#FF2E7D32</color>
+    <color name="primary_dark">#FF1B5E20</color>
+    <color name="primary_light">#FFC8E6C9</color>
+    <color name="background">#FFF5F7F5</color>
+    <color name="text_secondary">#FF616161</color>
+
+    <color name="status_fresh">#FF2E7D32</color>
+    <color name="status_expiring">#FFEF6C00</color>
+    <color name="status_expired">#FFC62828</color>
+    <color name="status_out_of_stock">#FF757575</color>
+
+    <color name="order_pending">#FFF9A825</color>
+    <color name="order_confirmed">#FF1565C0</color>
+    <color name="order_completed">#FF2E7D32</color>
+</resources>
